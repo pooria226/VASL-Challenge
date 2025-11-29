@@ -16,7 +16,7 @@ Detailed descriptions are in [`CHALLENGES.md`](./CHALLENGES.md), but here’s th
 3. Color Guessing Game
 4. Sliding Puzzle (15 Puzzle)
 5. Knight’s Hunt on the Chessboard
-6. Sudoku Validator
+6. Minesweeper (Mine-Sweeper Game)
 7. Conway’s Game of Life
 
 Pick **one** that fits your skills and interests best.  
